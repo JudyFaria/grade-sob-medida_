@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Grade sob medida</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Archivo:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/estilo.css">
+</head>
+<body>
+
+<div class="topo">
+  <span class="marca">Grade sob medida</span>
+  <span class="estado" id="estado-base">carregando…</span>
+  <div class="dir">
+    <label for="periodo" style="margin:0;color:#9BA8B8;font-size:11px">período</label>
+    <select id="periodo"></select>
+  </div>
+</div>
+
+<nav class="abas-nav" id="nav">
+  <button data-painel="montar" aria-selected="true">Montar grade</button>
+  <button data-painel="panorama" aria-selected="false">Panorama da oferta</button>
+  <button data-painel="vagas" aria-selected="false">Vagas e gargalos</button>
+  <button data-painel="conflitos" aria-selected="false">Conflitos estruturais</button>
+  <button data-painel="dados" aria-selected="false">Dados</button>
+</nav>
+
+<main>
+
+  <!-- ============ MONTAR GRADE ============ -->
+  <section class="painel ativo" id="p-montar">
+    <h2 class="titulo">Você desenha o dia. A grade se ajusta.</h2>
+    <p class="lede">
+      Diga o que quer cursar, quando não pode estar no campus e como quer que o dia
+      seja. O sistema devolve as grades viáveis, <b>já descartando turmas sem vaga</b>,
+      e explica o que está travando quando não fecha.
+    </p>
+
+    <div class="montador">
+      <div>
+        <section class="cartao">
+          <header><span class="n">1</span><h3>O que você quer cursar</h3></header>
+          <div class="corpo">
+            <div class="campo">
+              <label for="filtro-depto">Filtrar por departamento</label>
+              <select id="filtro-depto"><option value="">todos</option></select>
+            </div>
+            <div class="busca">
+              <input type="text" id="busca" placeholder="Buscar disciplina ou código" autocomplete="off">
+              <div class="sugestoes" id="sugestoes"></div>
+            </div>
+            <div class="escolhidas" id="escolhidas"></div>
+            <p class="dica" id="dica-escolhidas"></p>
+          </div>
+        </section>
+
+        <section class="cartao">
+          <header><span class="n">2</span><h3>Quando você não pode</h3></header>
+          <div class="corpo">
+            <div class="campo">
+              <label>Dias</label>
+              <div class="dias-sel" id="dias-bloq"></div>
+            </div>
+            <div class="linha3">
+              <div class="campo"><label for="bq-ini">Das</label><select id="bq-ini"></select></div>
+              <div class="campo"><label for="bq-fim">Às</label><select id="bq-fim"></select></div>
+              <button class="botao sec" id="add-bloq">Bloquear</button>
+            </div>
+            <ul class="bloqueios" id="lista-bloq"></ul>
+            <p class="dica">Bloqueio elimina turmas, não penaliza. Estágio, trabalho, transporte.</p>
+          </div>
+        </section>
+
+        <section class="cartao">
+          <header><span class="n">3</span><h3>Como você quer o dia</h3></header>
+          <div class="corpo">
+            <div class="presets" id="presets"></div>
+            <div class="linha2">
+              <div class="campo"><label for="f-ini">Não antes de</label><select id="f-ini"></select></div>
+              <div class="campo"><label for="f-fim">Não depois de</label><select id="f-fim"></select></div>
+            </div>
+            <div class="linha2">
+              <div class="campo"><label for="f-seq">Aulas seguidas, no máximo</label>
+                <select id="f-seq">
+                  <option value="1">1 aula</option><option value="2" selected>2 aulas</option>
+                  <option value="3">3 aulas</option><option value="4">4 aulas</option>
+                </select></div>
+              <div class="campo"><label for="f-int">Intervalo no meio</label>
+                <select id="f-int">
+                  <option value="0">tanto faz</option>
+                  <option value="60" selected>pelo menos 1h</option>
+                  <option value="120">pelo menos 2h</option>
+                </select></div>
+            </div>
+            <div class="linha2">
+              <div class="campo"><label for="f-dias">Dias no campus, no máximo</label>
+                <select id="f-dias">
+                  <option value="2">2 dias</option><option value="3">3 dias</option>
+                  <option value="4" selected>4 dias</option><option value="5">5 dias</option>
+                  <option value="6">6 dias</option>
+                </select></div>
+              <div class="campo"><label for="f-larga">Posso deixar de fora</label>
+                <select id="f-larga">
+                  <option value="0" selected>nenhuma</option><option value="1">1 disciplina</option>
+                  <option value="2">2 disciplinas</option><option value="3">3 disciplinas</option>
+                </select></div>
+            </div>
+            <div class="campo">
+              <label for="f-lotadas">Turmas sem vaga</label>
+              <select id="f-lotadas">
+                <option value="0" selected>não considerar</option>
+                <option value="1">considerar mesmo assim</option>
+              </select>
+            </div>
+            <p class="dica">
+              "Duas aulas de manhã, um intervalo, mais uma ou duas" é
+              <b>2 aulas seguidas</b> + <b>intervalo de 1h</b>. O sistema não tenta
+              eliminar a janela: tenta acertar o tamanho dela.
+            </p>
+            <button class="botao larga" id="montar" disabled>Montar grades</button>
+          </div>
+        </section>
+      </div>
+
+      <div class="cartao" id="resultado">
+        <div class="placeholder">
+          <span class="g">Nenhuma grade montada ainda</span>
+          Escolha as disciplinas e clique em montar.
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ PANORAMA ============ -->
+  <section class="painel" id="p-panorama">
+    <h2 class="titulo">Panorama da oferta</h2>
+    <p class="lede">
+      Onde a oferta se concentra e onde ela não dá conta. Nada aqui é otimização:
+      são contagens que já respondem perguntas concretas.
+    </p>
+    <div id="panorama-conteudo"><div class="carregando">carregando…</div></div>
+  </section>
+
+  <!-- ============ VAGAS ============ -->
+  <section class="painel" id="p-vagas">
+    <h2 class="titulo">Vagas e gargalos</h2>
+    <p class="lede">
+      <b>Atenção ao que <code>vagas</code> significa nesta base:</b> é saldo disponível,
+      não capacidade. Turma em zero está sem vaga, não com lotação máxima igual a zero.
+    </p>
+    <div id="vagas-conteudo"><div class="carregando">carregando…</div></div>
+  </section>
+
+  <!-- ============ CONFLITOS ============ -->
+  <section class="painel" id="p-conflitos">
+    <h2 class="titulo">Conflitos estruturais</h2>
+    <p class="lede">
+      Pares de disciplinas em que <b>nenhuma combinação de turmas fica sem choque</b>.
+      Quem precisa das duas no mesmo período simplesmente não consegue.
+    </p>
+    <div class="filtros">
+      <div class="campo">
+        <label for="cf-escopo">Escopo</label>
+        <select id="cf-escopo">
+          <option value="departamento" selected>dentro do mesmo departamento</option>
+          <option value="todos">todos os pares</option>
+        </select>
+      </div>
+      <div class="campo">
+        <label for="cf-depto">Departamento</label>
+        <select id="cf-depto"><option value="">todos</option></select>
+      </div>
+      <div class="campo">
+        <label for="cf-vaga">Turmas</label>
+        <select id="cf-vaga">
+          <option value="1" selected>só as com vaga</option>
+          <option value="0">todas</option>
+        </select>
+      </div>
+      <button class="botao" id="cf-rodar">Calcular</button>
+    </div>
+    <div id="conflitos-conteudo">
+      <div class="placeholder"><span class="g">Escolha o escopo e calcule</span>
+        Restringir ao mesmo departamento é mais rápido e mais útil: é onde os pares
+        realmente disputam o mesmo público.</div>
+    </div>
+  </section>
+
+  <!-- ============ DADOS ============ -->
+  <section class="painel" id="p-dados">
+    <h2 class="titulo">Dados</h2>
+    <p class="lede">
+      O que o sistema encontrou nos seus arquivos, e o que precisou corrigir para
+      conseguir usar. Confira antes de confiar em qualquer número das outras abas.
+    </p>
+    <div id="dados-conteudo"><div class="carregando">carregando…</div></div>
+  </section>
+
+</main>
+
+<script src="/app.js"></script>
+</body>
+</html>

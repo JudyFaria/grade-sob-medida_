@@ -1,0 +1,1018 @@
+cod_disciplina,disciplina,creditos,horas_teoria,horas_pratica,cod_departamento
+ACN1005,Projeto Final,4,4,0,633
+ACN1006,Estagio Supervisionado,1,1,0,633
+ACN1020,Top Esp Em Artes Cenicas,4,2,0,633
+ACN1022,Teatro/Musica Cult Brasileira,4,4,0,633
+ACN1023,"Leitor,Espectador/Obra De Arte",4,2,0,633
+ACN1027,Top Esp Em Artes Cenicas,4,4,0,633
+ACN1028,Top Esp Em Artes Cenicas,4,4,0,633
+ACN1029,Top Esp Em Artes Cenicas,4,4,0,633
+ACN1030,Top Esp Em Artes Cenicas,4,0,2,633
+ACN1032,Top Esp Em Artes Cenicas,4,0,2,633
+ACN1034,Top Esp Em Artes Cenicas,4,4,0,633
+ADM1010,Analise Empresarial,4,4,0,738
+ADM1019,Introducao A Financas,4,4,0,738
+ADM1496,Marketing Para Empreendedores,4,4,0,738
+ADM1688,Administracao Intercultural,4,4,0,738
+ADM1980,Top Esp Em Administracao I,4,4,0,738
+ADM9981,Mkt Strats Thru Cons Behavior,4,4,0,738
+ADM9983,Valuation And Real Options,4,4,0,738
+ARQ1000,Introducao Profissao Arquiteto,2,2,0,256
+ARQ1001,Teoria/Historia Arquitetura I,3,3,0,256
+ARQ1002,Teoria/Historia Arquitetura Ii,3,3,0,256
+ARQ1003,Urbanismo,4,4,0,256
+ARQ1004,Planejamento Urbano/Regional,2,2,0,256
+ARQ1005,Teo E Hist Da Arquitetura Iii,3,3,0,256
+ARQ1006,Conforto Ambiental,3,2,1,256
+ARQ1101,Introducao Ao Projeto,12,9,3,256
+ARQ1102,Projeto Espaco Residencial I,12,9,3,256
+ARQ1103,Projeto Espaco Trabalho,12,9,3,256
+ARQ1104,Projeto Espaco Coletivo,12,9,3,256
+ARQ1105,Projeto Revital/Reutilizacao,12,9,3,256
+ARQ1106,Projeto Urbano,12,9,3,256
+ARQ1108,Projeto Espaco Residencial Ii,12,9,3,256
+ARQ1109,Proposta De Projeto Final,6,3,3,256
+ARQ1110,Projeto Final,4,2,2,256
+ARQ1111,Projeto De Paisagismo,6,2,4,256
+ARQ1201,Programa Continuado Estagio I,1,1,0,256
+ARQ1202,Programa Continuado Estagio Ii,1,1,0,256
+ARQ1302,Projeto De Interiores I,4,4,0,256
+ARQ1317,Proj Especiais Arquitetura Ii,4,4,0,256
+ARQ1320,Top Esp Em Arquitetura V,2,2,0,256
+ARQ1322,Top Esp Em Arquitetura Vii,2,2,0,256
+ARQ1324,Top Esp Em Arquitetura Ix,2,2,0,256
+ARQ1326,Top Esp Em Arquitetura Xi,2,2,0,256
+ARQ1328,Top Esp Em Arquitetura Xiii,3,3,0,256
+ARQ1329,Top Esp Em Arquitetura Xiv,3,3,0,256
+ARQ1330,Top Esp Em Arquitetura Xv,3,3,0,256
+ARQ1333,Top Esp Em Arquitetura Xviii,3,3,0,256
+ARQ1334,Top Esp Em Arquitetura Xix,4,4,0,256
+ARQ1337,Topicos Esp Arquitetura Xxii,4,4,0,256
+ARQ1356,Top Esp Em Arquitetura Xli,3,3,0,256
+ARQ1362,Top Esp Em Arquitetura Xlvii,2,2,0,256
+ARQ1363,Top Esp Em Arquitetura Xlviii,2,2,0,256
+ARQ1389,Top Esp Em Arquitetura Lxxiv,4,4,0,256
+ARQ9113,Special Topics I,3,3,0,256
+ARQ9115,Special Topics Iii,4,4,0,256
+ART1020,Desenho De Observacao I,4,1,3,641
+ART1027,Geometria Descritiva,3,3,0,641
+ART1028,Desenho De Arquitetura I,3,1,2,641
+ART1029,Desenho De Arquitetura Ii,3,0,3,641
+ART1030,Desenho De Arquitetura Iii,3,0,3,641
+ART1210,Fund Da Linguagem Visual I,4,2,2,641
+ART1420,Cultura Moderna/Contemporanea,4,4,0,641
+ART1551,Planejam Empreendim Culturais,4,4,0,641
+ART1819,Ergonomia Na Arquitetura,2,2,0,256
+BIO1001,Biologia Geral,4,4,0,246
+BIO1002,Estatistica Aplic Biologia I,4,3,1,246
+BIO1003,Estatistica Aplic Biologia Ii,4,1,3,246
+BIO1004,Estatistica Aplic A Ecologia,4,1,3,246
+BIO1005,Des Amostral Est Ecologicos,2,2,0,246
+BIO1006,Biomas Brasileiros,4,3,1,246
+BIO1008,Biologia Aplicada,4,3,1,246
+BIO1009,Genetica,4,3,1,246
+BIO1010,Metodos Estudo Em Ecologia,4,1,3,246
+BIO1011,Etnobiologia,4,3,1,246
+BIO1111,Biologia Vegetal I,6,2,4,246
+BIO1112,Biologia Vegetal Ii,6,2,4,246
+BIO1113,Biologia Vegetal Iii,6,2,4,246
+BIO1114,Microbiologia,4,2,2,246
+BIO1115,Ecologia De Paisagens,4,3,1,246
+BIO1116,Estagio Supervisionado,2,2,0,246
+BIO1117,Conservacao E Sustentabilidade,4,3,1,246
+BIO1118,Modelagem De Dist De Especies,4,2,2,246
+BIO1119,Seminarios Tematicos I,3,3,0,246
+BIO1120,Seminarios Tematicos Ii,3,3,0,246
+BIO1121,Biologia Animal I,6,2,4,246
+BIO1122,Biologia Animal Ii,6,2,4,246
+BIO1123,Biologia Animal Iii,6,2,4,246
+BIO1125,Biologia Marinha,4,4,0,246
+BIO1126,Div Organis Fotossintetizantes,4,2,2,246
+BIO1127,Biologia Evolutiva,4,3,1,246
+BIO1129,Introducao A Ecologia,4,4,0,246
+BIO1131,Eco Comunidades Ecossistemas,4,4,0,246
+BIO1132,Fundamentos De Biogeografia,4,4,0,246
+BIO1133,Etica Ambiental,2,2,0,246
+BIO1134,Fisiologia Vegetal,4,3,1,246
+BIO1135,Ecologia Urbana,2,2,0,246
+BIO1136,Restauracao Ecologica,4,2,2,246
+BIO1150,Projeto Ambiental I,2,2,0,246
+BIO1151,Projeto Ambiental Ii,4,4,0,246
+BIO1152,Biologia Celular E Tecidual,6,4,2,246
+BIO1153,Biologia Do Desenvolvimento,2,2,0,246
+BIO1154,Morfofisiologia Humana,4,3,1,246
+BIO1155,Metabolismo Integrado,4,3,1,246
+BIO1156,Lab Ensino Em Biologia I,4,2,2,246
+BIO1157,Lab Ensino Em Biologia Ii,4,2,2,246
+BIO1158,Estag Superv Ens Biologia I,2,0,2,246
+BIO1159,Estag Superv Ens Biologia Ii,2,0,2,246
+BIO1160,Estag Superv Ens Biologia Iii,2,0,2,246
+BIO1161,Estag Superv Ens Biologia Iv,2,0,2,246
+BIO1162,Apoio Docente Em Biologia,4,0,4,246
+BIO1163,Proj Pedagogico Biologia I,2,0,2,246
+BIO1164,Proj Pedagogico Biologia Ii,4,0,4,246
+CIV1111,Sistem Estrut Arquitetura I,3,3,0,836
+CIV1112,Sistem Estrut Arquitetura Ii,3,3,0,836
+CIV1113,Sistem Estrut Arquitetura Iii,3,3,0,836
+CIV1301,Topografia Na Arquitetura,2,2,0,836
+CIV1305,Construcao Civil,4,4,0,836
+CIV1324,Instalacoes Prediais E Urbanas,3,3,0,836
+CIV1581,Geotecnia Na Arquitetura,3,3,0,836
+CIV1715,Meio Amb Desenv Sustentavel,2,2,0,836
+COM1001,Cultura Brasileira,4,4,0,732
+COM1006,Seminarios Esp Em Comunicacao,2,2,0,732
+COM1010,Sem Especiais Em Comunicacao,2,2,0,732
+COM1011,Sem Especiais Em Comunicacao,2,2,0,732
+COM1012,Sem Esp Em Comunicacao,2,2,0,732
+COM1038,Sem Esp Em Comunicacao,4,4,0,732
+COM1040,Sem Esp Em Comunicacao,4,4,0,732
+COM1041,Sem Esp Em Comunicacao,4,4,0,732
+COM1042,Sem Esp Em Comunicacao,4,4,0,732
+COM1043,Sem Esp Em Comunicacao,4,4,0,732
+COM1044,Sem Esp Em Comunicacao,4,4,0,732
+COM1045,Sem Esp Em Comunicacao,4,4,0,732
+COM1047,Sem Esp Em Comunicacao,4,4,0,732
+COM1048,Sem Esp Em Comunicacao,4,4,0,732
+COM1050,Sem Especiais Em Comunicacao,4,4,0,732
+COM1052,Sem Especiais Em Comunicacao,4,4,0,732
+COM1054,Sem Especiais Em Comunicacao,4,4,0,732
+COM1100,Comunicacao E Teatro,4,4,0,732
+COM1162,Com E Literatura Brasileira,4,4,0,732
+COM1163,Teoria Da Imagem,4,4,0,732
+COM1170,Met Da Pesquisa Em Comunicacao,4,4,0,732
+COM1246,Tecnicas De Comunicacao Oral,2,1,0,732
+COM1591,Producao Cinematografica Ii,4,2,2,732
+COM1680,Redacao Publicitaria,4,2,2,732
+COM1684,Prod Publicitaria Em Radio,4,2,2,732
+COM1685,Filme Publicitario,4,2,2,732
+COM1904,Proj Experim Em Jornalismo,4,0,4,732
+COM1905,Proj Experim Em Cinema,4,0,4,732
+COM1906,Proj Experim Em Pub E Prop,4,0,4,732
+COM9033,Brazilian Culture,4,4,0,732
+DSG1423,Historia Da Animacao,2,2,0,641
+DSG1515,Tecnicas De Costura,2,2,0,641
+DSG1727,Topicos Esp Em Design Xxviii,2,2,0,641
+DSG1728,Topicos Esp Em Design Xxix,2,2,0,641
+DSG1777,Topicos Esp Em Design Lxxviii,3,3,0,641
+DSG1901,Complemento De Projeto I,1,1,0,641
+DSG1902,Complemento De Projeto Ii,2,2,0,641
+ECO1101,Introducao A Economia,4,4,0,733
+ECO1102,Introducao A Economia Ii,4,4,0,733
+ECO1103,"Economia(P/ Arq, Des Ind, Eng)",3,3,0,733
+ECO1115,Economia Politica,4,4,0,733
+ECO1322,Contabilidade Social N,4,4,0,733
+ECO1410,Economia Brasileira,4,4,0,733
+ECO1705,Econometria Ii,4,4,0,733
+ECO1800,Tec De Pesquisa Em Economia,4,4,0,733
+ECO1801,Ten De Pesquisa Em Economia Ii,4,4,0,733
+ECO1804,Econometria I N,4,4,0,733
+ECO1811,Monografia I,8,8,0,733
+ECO1812,Monografia Ii,8,8,0,733
+EDU1445,Educacao E Sociedade,4,2,2,631
+EDU1446,Hist E Politica Da Edu Basica,4,2,2,631
+EDU1447,Proces Constr Conhecim Escola,4,2,2,631
+EDU1448,"A Esc, O Prof E A Prat Docente",4,2,0,631
+EDU1730,Topicos Especiais,4,4,0,631
+EDU1731,Topicos Especiais,4,4,0,631
+EDU1740,Topicos Especiais,4,4,0,631
+EDU1760,Antropologia E Educacao,4,4,0,631
+EDU1762,Filosofia Da Educacao I,4,4,0,631
+EDU1763,Filosofia Da Educacao Ii,4,4,0,631
+EDU1764,Hist Ideias/Prat Pedagogicas,4,4,0,631
+EDU1765,Hist Educacao No Brasil,4,4,0,631
+EDU1766,Politica Educacional I,4,4,0,631
+EDU1767,Politica Educacional Ii,4,4,0,631
+EDU1768,Psicologia Educacional I,4,4,0,631
+EDU1769,Psicologia Educacional Ii,4,4,0,631
+EDU1770,Sociologia Da Educacao I,4,4,0,631
+EDU1771,Sociologia Da Educacao Ii,4,4,0,631
+EDU1772,As Criancas/Cotid Edu Infantil,4,4,0,631
+EDU1774,Crianca E Cultura,4,4,0,631
+EDU1775,Didatica Geral,4,4,0,631
+EDU1776,Educ Em Direitos Humanos,4,4,0,631
+EDU1777,Divers E Inclusao Educacional,4,4,0,631
+EDU1780,"Midia, Tecnologias E Educacao",4,4,0,631
+EDU1781,Organizacao Escolar I,4,4,0,631
+EDU1782,Organizacao Escolar Ii,4,4,0,631
+EDU1788,Estag Superv: Gestao Da Escola,4,2,4,631
+EDU1789,Estag Superv Educ Infantil,4,2,4,631
+EDU1790,Prat Ens Materias Pedagogicas,4,2,4,631
+EDU1791,Prat Ensino Em Esc Fundamental,4,2,4,631
+EDU1792,Pesquisa Educacional,4,4,0,631
+EDU1794,Educ De Jovens E Adultos,4,4,0,631
+EDU1796,Cultura Digital E Educacao,4,4,0,631
+EDU1798,Multiculturalismo E Educacao,4,4,0,631
+EDU1799,Metod Ens Cienc Naturais I,4,4,0,631
+EDU1800,Metod Ens Cienc Naturais Ii,4,4,0,631
+EDU1801,Metod Ens Ciencias Sociais I,4,4,0,631
+EDU1802,Metod Ens Cincias Sociais Ii,4,4,0,631
+EDU1803,Metod Ens Lin Portuguesa I,4,4,0,631
+EDU1804,Metod Ens Lin Portuguesa Ii,4,4,0,631
+EDU1805,Metod Edu Matematica I,4,4,0,631
+EDU1806,Metod Edu Matematica Ii,4,4,0,631
+EDU1807,Anal Interp Dados Estatisticos,4,4,0,631
+EDU1808,Curriculo:Quest Teor/Praticas,4,4,0,631
+EDU1811,Leitura E Escrita Iii,4,4,0,631
+EDU1817,Avaliacao Da Aprendizagem,4,4,0,631
+EMP1000,Projeto Final Empreendedorismo,4,0,4,259
+EMP1006,Lab De Ideias E Oportunidades,4,4,0,259
+EMP1010,Empreendedorismo Social,4,4,0,259
+EMP1032,Criacao De Projetos,4,4,0,259
+EMP1102,Top Esp Em Empreendedorismo,4,4,0,259
+EMP1103,Empreendedorismo/Desenv Local,2,2,0,259
+EMP1108,Empreend Sust E Econegocios,2,2,0,259
+EMP1116,Top Especiais Empreendedorismo,4,4,0,259
+EMP1200,Empreendedorismo,2,2,0,259
+EMP1503,Empreendedorismo Etico,2,2,0,259
+EMP1504,Empreendedorismo Internacional,4,4,0,259
+EMP1505,Planej Novos Empreendimentos,4,4,0,259
+ENG1019,Labor De Eletrotecnica Geral,1,0,1,848
+ENG1021,Administracao P/Engenheiros,2,2,0,848
+ENG1023,Introd Economia P/Engenheiros,4,4,0,848
+ENG1030,Transferencia De Massa,4,4,0,848
+ENG1031,Mecanica Dos Fluidos I,5,4,1,848
+ENG1101,Estudo Orientado,1,1,0,848
+ENG1102,Estudo Orientado,2,2,0,848
+ENG1103,Estudo Orientado,3,3,0,848
+ENG1104,Estudo Orientado,4,4,0,848
+ENG1130,Proj Grad Em Eng Ambiental,4,4,0,848
+ENG1131,Proj Grad Em Engenharia Civil,4,4,0,848
+ENG1132,Proj Grad Em Eng Computacao I,2,2,0,848
+ENG1133,Proj Grad Em Eng Computacao Ii,2,2,0,848
+ENG1134,Proj Grad Eng Contr Automacao,4,4,0,848
+ENG1135,Proj Grad Em Eng Eletrica,4,4,0,848
+ENG1137,Proj Grad Em Eng De Materiais,4,4,0,848
+ENG1140,Proj Grad Em Eng Producao,4,4,0,848
+ENG1141,Proj Grad Em Eng Quimica I,2,2,0,848
+ENG1142,Proj Grad Em Eng Quimica Ii,2,2,0,848
+ENG1145,Proj Grad Eng Mat Nano,4,4,0,848
+ENG1147,Proj Grad Em Eng Producao,4,4,0,848
+ENG1148,Proj Grad Em Eng Mecanica I,1,1,0,848
+ENG1149,Proj Grad Em Eng Mecanica Ii,3,3,0,848
+ENG1150,Est Superv Em Eng Ambiental,1,1,0,848
+ENG1151,Est Superv Em Eng Civil,1,1,0,848
+ENG1153,Est Superv Em Eng Computacao,1,1,0,848
+ENG1154,Est Sup Eng Contr E Automacao,1,1,0,848
+ENG1155,Est Superv Em Eng Eletrica,1,1,0,848
+ENG1158,Est Superv Em Eng Mecanica,1,1,0,848
+ENG1160,Est Superv Em Eng De Producao,1,1,0,848
+ENG1161,Est Superv Em Eng Quimica,1,1,0,848
+ENG1163,Est Sup Eng Mat Nano,1,1,0,848
+ENG1207,Hidraulica,4,3,1,848
+ENG1211,Mecanica Dos Solos,4,4,0,848
+ENG1216,Hidrologia I,4,4,0,848
+ENG1222,Estradas,4,4,0,848
+ENG1224,Construcao Civil Ii,4,4,0,848
+ENG1225,Instalacoes Prediais,3,3,0,848
+ENG1226,Planejamento/Controle De Obras,3,3,0,848
+ENG1227,Geotecnia Aplicada,4,4,0,848
+ENG1228,Engenharia De Fundacoes,4,4,0,848
+ENG1230,Saneamento,4,4,0,848
+ENG1231,Metod Do Projeto Em Eng Civil,4,4,0,848
+ENG1266,Geotecnia Ambiental,4,4,0,848
+ENG1301,"Intr Carac,Proc/Obt Materiais",3,3,0,848
+ENG1311,Recursos Nat E Proces Mineral,4,3,1,848
+ENG1312,Cinetica Das Reacoes/Processos,4,4,0,848
+ENG1315,Extracao/Sintese Materiais B,3,2,1,848
+ENG1352,Trat De Efluentes Industriais,3,3,0,848
+ENG1354,Fontes De Energia,2,2,0,848
+ENG1358,Top Esp Em Materiais,2,2,0,848
+ENG1413,Tecnicas Digitais,4,4,0,848
+ENG1414,Laboratorio Tecnicas Digitais,3,0,3,848
+ENG1436,Eficiencia Energetica,4,4,0,848
+ENG1438,Anal Sist Energia Eletrica Ii,4,4,0,848
+ENG1443,Processamento Digital Sinais,4,4,0,848
+ENG1465,Proc Estocasticos Markovianos,4,4,0,848
+ENG1466,Teoria Inferencia Estatistica,4,4,0,848
+ENG1468,Programacao Linear Inteira,4,4,0,848
+ENG1469,Analise De Series Temporais,4,4,0,848
+ENG1470,Modelos De Regressao,4,4,0,848
+ENG1483,Sistemas Transmissao Digital,4,4,0,848
+ENG1494,Comunicacoes Oticas,4,3,1,848
+ENG1507,Transporte E Logistica,3,3,0,848
+ENG1539,Introducao A Teoria Economica,4,4,0,848
+ENG1546,Gerencia De Operacoes,3,3,0,848
+ENG1547,Economia Da Engenharia,3,3,0,848
+ENG1549,Gestao Qualidade Inovacao,3,3,0,848
+ENG1550,Gestao De Projetos,3,3,0,848
+ENG1555,Organizacao De Empresas,2,2,0,848
+ENG1564,Gestao De Operacoes Em Saude,3,3,0,848
+ENG1568,Sist Informacao Gerenciais Ii,3,3,0,848
+ENG1580,Top Esp Em Eng De Producao,2,2,0,848
+ENG1708,Metrologia Dimensional,4,2,2,848
+ENG1712,Tecnologia Mecanica,6,4,2,848
+ENG1717,Processos De Fabricacao,4,4,0,848
+ENG1720,Projeto De Sistemas Mecanicos,3,3,0,848
+ENG1722,Controle Poluicao Atmosferica,3,3,0,848
+ENG1732,Robotica Industrial,4,2,2,848
+ENG1735,Proj Grad Control Automacao I,2,2,0,848
+ENG1737,Proj Grad Control Automacao Ii,2,2,0,848
+ENG1786,Otimizacao De Projetos,4,4,0,848
+ENG1801,Metodos Num P/ Eng Quimica,4,4,0,848
+ENG1802,Introd A Engenharia Quimica,3,3,0,848
+ENG1803,Termodinamica Ii,2,2,0,848
+ENG1807,Eng De Processos Quimicos I,4,4,0,848
+ENG1808,Eng De Processos Quimicos Ii,2,2,0,848
+ENG1809,Calculo De Reatores,3,3,0,848
+ENG1810,Calculo De Reatores Ii,2,2,0,848
+ENG1813,Operacoes Unitarias A,4,4,0,848
+ENG1814,Operacoes Unitarias B,4,4,0,848
+ENG1815,Operacoes Unitarias C,2,2,0,848
+ENG1816,Projeto De Processos Quimicos,4,4,0,848
+ENG1818,Simul/Otimiz De Proc Quimicos,4,4,0,848
+ENG1900,Aval Contab Impac Ambientais,4,4,0,848
+ENG1903,Coleta E Disp De Resid Solidos,3,3,0,848
+ENG1905,Sist Gestao E Qualid Ambiental,4,4,0,848
+ENG1908,Quimica Organ P/Eng Ambiental,2,2,0,848
+ENG1909,Lab Quim Organ P/Eng Ambiental,4,0,4,848
+ENG1910,Geoprocessamento,4,4,0,848
+ENG1963,Sintese De Nanomateriais,5,3,2,848
+ENG9001,Sclm,3,3,0,848
+FIL1000,Introducao A Filosofia,4,4,0,632
+FIL1002,Filosofia Da Ciencia,4,4,0,632
+FIL1006,Historia Do Pensamento,4,4,0,632
+FIL1100,Met De Pesq Bibl Em Filosofia,4,4,0,632
+FIL1150,Monografia,10,0,0,632
+FIL1210,Corr Do Pens Contemporaneo I,4,4,0,632
+FIL1220,Historia Filosofia Antiga I,4,4,0,632
+FIL1221,Historia Filosofia Antiga Ii,4,4,0,632
+FIL1222,Historia Filosofia Medieval,4,4,0,632
+FIL1223,Historia Filosofia Moderna I,4,4,0,632
+FIL1224,Historia Filosofia Moderna Ii,4,4,0,632
+FIL1225,Historia Fil Contemporanea,4,4,0,632
+FIL1251,Seminario,4,4,0,632
+FIL1254,Seminario,4,4,0,632
+FIL1261,Topicos Especiais,4,4,0,632
+FIL1262,Topicos Especiais,4,4,0,632
+FIL1302,Teoria Do Conhecimento I,4,4,0,632
+FIL1303,Teoria Do Conhecimento Ii,4,4,0,632
+FIL1304,Logica I (Intr Fil A Logica),4,4,0,632
+FIL1305,Logica E Argumentacao,4,4,0,632
+FIL1310,Logica Ii(Intr A Log Moderna),4,4,0,632
+FIL1401,Filosofia Geral Ii,4,4,0,632
+FIL1500,Filosofia Da Natureza,4,4,0,632
+FIL1600,Antropologia Filosofica I,4,4,0,632
+FIL1601,Antropologia Filosofica Ii,4,4,0,632
+FIL1700,Etica I,4,4,0,632
+FIL1701,Etica Ii,4,4,0,632
+FIL1800,Filosofia Da Cultura,4,4,0,632
+FIL1801,Filosofia Da Historia,4,4,0,632
+FIL1802,Filosofia Da Linguagem,4,4,0,632
+FIL1803,Filosofia Da Arte,4,4,0,632
+FIL1804,Filosofia Da Religiao,4,4,0,632
+FIL1814,Filosofia Politica,4,4,0,632
+FIL1815,Estetica I,4,4,0,632
+FIL1820,Didatica Esp De Filosofia,4,2,0,632
+FIL1821,Apoio Docente Em Filosofia,4,2,0,632
+FIL1822,Estag Superv I - Filosofia,5,2,8,632
+FIL1823,Estag Superv Ii - Filosofia,5,2,8,632
+FIS1011,Fisica Na Arquitetura,3,1,2,831
+FIS1012,Asp Fis No Conforto Ambiental,3,1,2,831
+FIS1201,Mecanica Geral I,4,3,0,831
+FIS1211,Mecanica Analitica,4,3,0,831
+FIS1221,Mecanica Quantica I,4,3,0,831
+FIS1222,Mecanica Quantica Ii,4,3,0,831
+FIS1301,Eletromagnetismo I,4,4,0,831
+FIS1302,Eletromagnetismo Ii,4,4,0,831
+FIS1320,Fisica Para Bio,2,1,1,831
+FIS1330,Biofisica Para Biologia,2,2,0,831
+FIS1400,Estrutura Da Materia I,4,3,0,831
+FIS1402,Estrutura Da Materia Ii,4,4,0,831
+FIS1405,Estrutura Da Materia Iii,6,4,4,831
+FIS1406,Estrutura Da Materia Iv,6,4,4,831
+FIS1451,Lab De Fisica Moderna I,4,0,8,831
+FIS1452,Lab De Fisica Moderna Ii,4,0,8,831
+FIS1506,Met Mat Da Fis E Da Eng Ii,4,4,0,831
+FLE1101,Introducao Ao Tomismo,4,4,0,632
+FLE1102,Metafisica I,4,4,0,632
+FLE1103,Metafisica Ii,4,4,0,632
+FLE1201,Sociologia E Religiao,4,4,0,632
+GEO1115,Fund De Geologia P/ Geografia,2,1,0,735
+GEO1116,Climatologia,4,3,0,735
+GEO1117,Geomorfologia,4,2,1,735
+GEO1118,Hidrologia,4,3,0,735
+GEO1119,Pedologia E Manejo Dos Solos,4,3,1,735
+GEO1120,Geomorfologia Costeira,4,3,1,735
+GEO1121,Dinam Paisagem Geomorfologica,4,2,1,735
+GEO1217,Espaco Urbano,4,4,0,735
+GEO1312,Espaco Urbano Brasileiro,4,3,0,735
+GEO1511,Pensamento Geografico,4,4,0,735
+GEO1512,Metodologia Da Geografia,4,4,0,735
+GEO1513,Planej E Gestao Do Territorio,4,3,0,735
+GEO1516,Prat Pesq Iii-Aval Amb (Proj),2,1,0,735
+GEO1517,Prat Pesq Iv-Estagio De Campo,4,0,4,735
+GEO1524,Trab Final De Licenciatura I,3,0,3,735
+GEO1525,Trab Final De Licenciatura Ii,7,0,7,735
+GEO1526,Trab Final De Bacharelado I,3,0,3,735
+GEO1527,Trab Final De Bacharelado Ii,7,0,7,735
+GEO1530,Estagio Supervisionado Iii,3,2,2,735
+GEO1531,Estagio Supervisionado Iv,3,2,2,735
+GEO1634,Ecologia Florestas Tropicais,4,3,1,735
+GEO1635,Etica Ambiental,2,2,0,735
+GEO1714,Seminarios Especiais,2,2,0,735
+GEO1801,Ensino De Geografia I,2,1,0,735
+GEO1803,Ensino De Geografia Iii,4,2,0,735
+GEO1804,Ensino De Geografia Iv,4,2,0,735
+HIS1105,Introducao A Historia,4,4,0,734
+HIS1225,Historia Da Africa,4,4,0,734
+HIS1231,Historia Antiga,4,4,0,734
+HIS1232,Historia Medieval,4,4,0,734
+HIS1308,Hist Do Mundo Contemporaneo,4,4,0,734
+HIS1314,Historia Moderna I,4,4,0,734
+HIS1315,Historia Moderna Ii,4,4,0,734
+HIS1327,Historia Contemporanea I,4,4,0,734
+HIS1328,Historia Contemporanea Ii,4,4,0,734
+HIS1430,Historia Arquitetura Brasil,3,3,0,734
+HIS1431,Historia Do Brasil I,4,4,0,734
+HIS1432,Historia Do Brasil Ii,4,4,0,734
+HIS1433,Historia Do Brasil Iii,4,4,0,734
+HIS1434,Historia Do Brasil Iv,4,4,0,734
+HIS1531,Historia Da America I,4,4,0,734
+HIS1532,Historia Da America Ii,4,4,0,734
+HIS1533,Historia Da America Iii,4,4,0,734
+HIS1605,"His Econ,Polit E Soc Do Bras B",4,4,0,734
+HIS1710,Teoria Da Historia I,4,4,0,734
+HIS1711,Teoria Da Historia Ii,4,4,0,734
+HIS1713,Monografia I,4,0,0,734
+HIS1714,Monografia Ii,4,0,0,734
+HIS1850,Historia Das Cidades,3,3,0,734
+HIS1911,Lab Ens E Aprend De Historia,4,2,2,734
+HIS1912,Estagio Supervisionado I,5,2,8,734
+HIS1913,Estagio Supervisionado Ii,5,2,8,734
+HIS1930,Seminario Especial,4,4,0,734
+HIS9827,Brazilian History,4,4,0,734
+INF1009,Logica Para Computacao,4,4,0,832
+INF1010,Estruturas De Dados Avancadas,4,4,0,832
+INF1012,Modelagem De Dados,2,2,0,832
+INF1013,Modelagem De Software,4,4,0,832
+INF1014,Seminarios,1,1,0,832
+INF1015,Computabilidade,4,4,0,832
+INF1018,Software Basico,4,4,0,832
+INF1022,Analis Lexicos E Sintaticos,4,4,0,832
+INF1025,Introducao A Programacao,4,4,0,832
+INF1026,Computacao Aplicada,4,4,0,832
+INF1027,Testes E Medidas De Software,4,4,0,832
+INF1028,Projeto E Construcao Sistemas,6,6,3,832
+INF1029,Int Arquitetura Computadores,4,2,2,832
+INF1030,Conceitos De Informatica,3,3,0,832
+INF1032,Introducao A Ciencia Dos Dados,4,2,2,832
+INF1033,Estagio Superv Em Computacao,16,2,24,832
+INF1036,Probabilidade Computacional,4,4,0,832
+INF1173,Top Avancados Em Programacao,2,2,0,832
+INF1301,Programacao Modular,4,2,2,832
+INF1304,Distribuicao E Concorrencia,4,4,0,832
+INF1316,Sistemas Operacionais,4,4,0,832
+INF1340,Banco De Dados Ii,4,4,0,832
+INF1377,Engenharia De Requisitos,4,4,0,832
+INF1383,Bancos De Dados,4,3,1,832
+INF1398,Top Especiais Em Informatica,4,4,0,832
+INF1399,Top Especiais Em Informatica,4,4,0,832
+INF1403,Intr Int Humano-Computador,4,3,1,832
+INF1407,Programacao Para A Web,4,2,2,832
+INF1408,Analise De Processos,4,4,0,832
+INF1410,Gerenc Proj Em Informatica,4,4,0,832
+INF1416,Seguranca Da Informacao,4,4,0,832
+INF1608,Analise Numerica I,4,4,0,832
+INF1629,Principios Eng De Software,4,4,0,832
+INF1631,Estruturas Discretas,4,4,0,832
+INF1636,Programacao Orientada Objetos,4,4,0,832
+INF1640,Redes De Comunicacao De Dados,4,4,0,832
+INF1721,Analise De Algoritmos,4,4,0,832
+INF1761,Computacao Grafica,4,4,0,832
+INF1771,Inteligencia Artificial,4,4,0,832
+INF1802,Top Em Eng De Computacao Ii,4,4,0,832
+INF1822,Projeto Orientado Ii,2,0,4,832
+INF1824,Projeto Orientado Iv,4,0,8,832
+INF1920,Estagio Supervisionado,1,1,0,832
+INF1950,Projeto Final I,2,0,2,832
+INF1951,Projeto Final Ii,2,0,2,832
+IRI1501,Formacao Sist Internacional,4,4,0,712
+IRI1507,Introd Politica Internacional,4,4,0,712
+IRI1509,Organizacoes Internacionais,4,4,0,712
+IRI1510,Problemas Da Guerra E Da Paz,4,4,0,712
+IRI1511,Pol/Eco Rel Internacionais I,4,4,0,712
+IRI1512,Pol/Eco Rel Internacionais Ii,4,4,0,712
+IRI1513,Analise De Politica Externa,4,4,0,712
+IRI1515,Seguranca E Rel Internacionais,4,4,0,712
+IRI1522,Teo Cont Rel Internacionais I,4,4,0,712
+IRI1523,Fund Teo Rel Internacionais I,4,4,0,712
+IRI1524,Teo Cont Rel Internacionais Ii,4,4,0,712
+IRI1525,Fund Teo Rel Internacionais Ii,4,4,0,712
+IRI1608,Politica Externa Brasileira I,4,4,0,712
+IRI1609,Politica Externa Brasileira Ii,4,4,0,712
+IRI1630,Met Tecn Pesq Rel Internac,4,4,0,712
+IRI1631,Os Conf Intern Contemporaneos,4,4,0,712
+IRI1632,Coop Tecn Int/Desenvolvimento,4,4,0,712
+IRI1633,Reg Comer Inter Pol Comerciais,4,4,0,712
+IRI1634,Seminario De Pesquisa,4,4,0,712
+IRI1662,Lab De Pesquisa Cientifica,4,4,0,712
+IRI1689,Top Esp Comer Internacional V,4,0,4,712
+IRI1691,Lab Negociacao De Conflitos,4,0,4,712
+IRI1692,Lab Cooperacao Internacional,4,0,4,712
+IRI1693,Lab Comer Negoc Internacionais,4,0,4,712
+IRI1735,Genero/Relacoes Internacionais,4,4,0,712
+IRI1746,Introd Comerc Internacional,4,4,0,712
+IRI1748,Dir Humanos/Pol Internacional,4,4,0,712
+IRI1749,Meio Amb E Rel Internacionais,4,4,0,712
+IRI1760,Top Esp Temas Rel Internac I,4,4,0,712
+IRI1761,Top Esp Temas Rel Internac Ii,4,4,0,712
+IRI1762,Top Esp Temas Rel Internac Iii,4,4,0,712
+IRI1763,Top Esp Temas Rel Internac Iv,4,4,0,712
+IRI1764,Top Esp Temas Rel Internac V,4,4,0,712
+IRI1765,Top Esp Temas Rel Internac Vi,2,2,0,712
+IRI1775,Top Esp Rel Internacionais Vi,4,4,0,712
+IRI1776,Top Esp Rel Internacionais Vii,4,4,0,712
+IRI1779,Top Esp Rel Internacionais X,4,4,0,712
+IRI1804,Russia/Eur Leste Pos Guer Fria,4,4,0,712
+IRI1805,Politica Internacional Na Asia,4,4,0,712
+IRI1820,"Est,Pol/Des Afr Subsaariana",4,4,0,712
+IRI1831,Quest Pol Internac Da China,4,4,0,712
+IRI1832,Que Pol Int Africa Subsaariana,4,4,0,712
+IRI1836,Quest Pol Int Oriente Medio,4,4,0,712
+IRI1837,Top Espec Estudos De Area I,4,4,0,712
+IRI1838,Top Espec Estudos De Area Ii,4,4,0,712
+IRI1839,Top Espec Estudos De Area Iii,4,4,0,712
+IRI1921,Sem De Rel Internacionais I,2,0,2,712
+IRI1922,Sem De Rel Internacionais Ii,2,0,2,712
+IRI1923,Sem De Rel Internacionais Iii,2,0,2,712
+IRI1924,Sem De Rel Internacionais Iv,2,0,2,712
+IRI1925,Sem De Rel Internacionais V,2,0,2,712
+IRI1926,Sem De Rel Internacionais Vi,2,0,2,712
+IRI1927,Sem De Rel Internacionais Vii,2,0,2,712
+IRI1928,Sem De Rel Internacionais Viii,2,0,2,712
+IRI1958,Economia Politica Globalizacao,4,4,0,712
+IRI1998,Top Esp Estudos Avancados Xiv,4,4,0,712
+IRI9602,Brazilian Foreing Policy I,4,4,0,712
+IRI9775,Special Topics In Ir Ii,4,4,0,712
+IRI9776,Special Topics In Ir Iii,4,4,0,712
+IRI9844,Int Area Studies Iii,4,4,0,712
+IRI9990,Advanced Studies In Ir Ii,4,4,0,712
+IRI9991,Advanced Studies In Ir I,2,2,0,712
+IRI9992,Advanced Studies In Ir Iii,4,4,0,712
+IRI9994,Advanced Studies In Ir V,4,4,0,712
+JUR1003,Historia Do Direito,2,2,0,731
+JUR1004,Direito Romano,2,2,0,731
+JUR1016,Legislacao Social,2,2,0,731
+JUR1022,Nocoes De Direito P/ Empreend,4,4,0,731
+JUR1023,Direito E Legislacao Social,4,4,0,731
+JUR1024,Direito Nas Rel Internacionais,4,4,0,731
+JUR1028,Direito Comercial E Tributario,4,3,0,731
+JUR1029,"Direito, Psi E Subjetividade",2,2,0,731
+JUR1031,Introducao Ao Direito I,4,4,0,731
+JUR1033,Teoria Do Direito,2,2,0,731
+JUR1035,Filosofia Do Direito,4,4,0,731
+JUR1036,Metodologia Da Pesquisa,2,2,0,731
+JUR1037,Soc Do Direito/Adm Da Justica,2,2,0,731
+JUR1080,Laboratorios De Direito,2,2,0,731
+JUR1081,Laboratorios De Direito,2,2,0,731
+JUR1082,Laboratorios De Direito,2,2,0,731
+JUR1083,Laboratorios De Direito,2,2,0,731
+JUR1084,Laboratorios De Direito,2,2,0,731
+JUR1111,Direito Ambiental,2,2,0,731
+JUR1131,Direito Penal I,4,4,0,731
+JUR1132,Direito Penal Ii,4,4,0,731
+JUR1140,Direito Ambiental,4,4,0,731
+JUR1141,Direito Penal Economico,4,4,0,731
+JUR1142,Medicina Legal,2,2,0,731
+JUR1163,Direito Penal Iii,2,2,0,731
+JUR1164,Direito Penal Iv,4,4,0,731
+JUR1165,Criminologia,2,2,0,731
+JUR1166,Direito Da Execucao Penal,2,2,0,731
+JUR1167,Direito Penal V,4,4,0,731
+JUR1233,Titulos De Credito,2,2,0,731
+JUR1237,Dir Societ Iii (Mer Capitais),4,4,0,731
+JUR1240,"Negociac,Mediacao/Arbitragem",4,4,0,731
+JUR1330,Legislacao Ambiental,2,2,0,731
+JUR1331,Direito Tributario,4,4,0,731
+JUR1340,Processo Tributario,4,4,0,731
+JUR1341,Tributos,4,4,0,731
+JUR1353,Contabilidade Para Direito,2,2,0,731
+JUR1360,Direito Comparado,2,2,0,731
+JUR1430,Teoria Do Estado,2,2,0,731
+JUR1431,Direito Constitucional I,4,4,0,731
+JUR1435,Direito Administrativo Ii,4,4,0,731
+JUR1436,Processo Administrativo,2,2,0,731
+JUR1441,Direitos Humanos,4,4,0,731
+JUR1443,Processo/Tecnica Legistativos,2,2,0,731
+JUR1444,Direito Urbanistico,2,2,0,731
+JUR1445,Papel Do Est Dominio Economico,4,4,0,731
+JUR1460,Jurisdicao Constitucional,2,2,0,731
+JUR1530,Teoria Geral Do Processo,4,4,0,731
+JUR1531,Direito Processual Civil I,4,4,0,731
+JUR1532,Direito Processual Civil Ii,4,4,0,731
+JUR1533,Direito Processual Civil Iii,4,4,0,731
+JUR1536,Direito Processual Penal,4,4,0,731
+JUR1540,Acoes Coletivas,4,4,0,731
+JUR1541,Procedimentos Especiais,4,4,0,731
+JUR1542,Direito Processual Penal Ii,4,4,0,731
+JUR1561,Procedimentos Especiais Ii,2,2,0,731
+JUR1564,Direito Processual Do Trabalho,4,4,0,731
+JUR1633,Direito Internacional Privado,4,4,0,731
+JUR1641,Direito Internacional Penal,2,2,0,731
+JUR1731,Direito Do Trabalho I,4,4,0,731
+JUR1732,Direito Do Trabalho Ii,4,4,0,731
+JUR1740,O Trabalho Na Empresa,4,4,0,731
+JUR1750,Seguridade Social,2,2,0,731
+JUR1809,Direito Do Autor,2,2,0,731
+JUR1834,Direito Do Consumidor,2,2,0,731
+JUR1836,Dir De Famil/Proced Correlatos,4,4,0,731
+JUR1837,Dir Suces/Proced Correlatos,4,4,0,731
+JUR1851,Dir Da Crianca Do Adolescente,2,2,0,731
+JUR1855,Direito Da Informatica,2,2,0,731
+JUR1860,Pessoas,2,2,0,731
+JUR1861,Bens E Negocio Juridico,4,4,0,731
+JUR1864,Teoria Dos Contratos Ii,2,2,0,731
+JUR1865,Direito Das Coisas I,4,4,0,731
+JUR1866,Direito Das Coisas Ii,2,2,0,731
+JUR1868,Responsabilidade Civil,2,2,0,731
+JUR1915,Monografia I,2,2,0,731
+JUR1916,Monografia Ii,2,2,0,731
+JUR1919,Monografia,6,0,0,731
+JUR1920,Top Especiais Em Direito I,2,2,0,731
+JUR1921,Top Especiais Em Direito Ii,2,2,0,731
+JUR1922,Top Especiais Em Direito Iii,2,2,0,731
+JUR1923,Top Esp Em Direito Iv,2,2,0,731
+JUR1924,Top Esp Em Direito V,2,2,0,731
+JUR1925,Top Esp Em Direito Vi,2,2,0,731
+JUR1926,Top Esp Em Direito Vii,2,2,0,731
+JUR1927,Top Esp Em Direito Viii,2,2,0,731
+JUR1928,Top Esp Em Direito Ix,2,2,0,731
+JUR1929,Top Esp Em Direito X,2,2,0,731
+JUR1931,Top Esp Em Direito Xii,2,2,0,731
+JUR1932,Top Esp Em Direito Xiii,2,2,0,731
+JUR1933,Top Esp Em Direito Xiv,2,2,0,731
+JUR1934,Top Esp Em Direito Xv,2,2,0,731
+JUR1935,Top Esp Em Direito Xvi,2,2,0,731
+JUR1936,Top Esp Em Direito Xvii,2,2,0,731
+JUR1937,Top Esp Em Direito Xviii,2,2,0,731
+JUR1938,Top Esp Em Direito Xix,2,2,0,731
+JUR1939,Top Esp Em Direito Xx,2,2,0,731
+JUR1940,Top Esp Em Direito Xxi,2,2,0,731
+JUR1941,Top Esp Em Direito Xxii,2,2,0,731
+JUR1942,Top Esp Em Direito Xxiii,2,2,0,731
+JUR1943,Top Esp Em Direito Xxiv,2,2,0,731
+JUR1944,Top Esp Em Direito Xxv,2,2,0,731
+JUR1945,Top Esp Em Direito Xxvi,2,2,0,731
+JUR1946,Top Esp Em Direito Xxvii,2,2,0,731
+JUR1947,Top Esp Em Direito Xxviii,2,2,0,731
+JUR1948,Top Esp Em Direito Xxix,2,2,0,731
+JUR1949,Top Esp Em Direito Xxx,2,2,0,731
+JUR1950,Top Esp Em Direito Xxxi,2,2,0,731
+JUR1951,Top Esp Em Direito Xxxii,2,2,0,731
+JUR1952,Topicos Especiais Em Direito,2,2,0,731
+JUR1954,Topicos Especiais Em Direito,2,2,0,731
+JUR1955,Top Especiais Direito Xxxvi,2,2,0,731
+JUR1956,Top Especiais Direito Xxxvii,2,2,0,731
+JUR1957,Top Especiais Direito Xxxviii,2,2,0,731
+JUR1958,Top Especiais Direito Xxxix,2,2,0,731
+JUR1959,Top Especiais Direito Xl,2,2,0,731
+JUR1961,Estagio Supervisionado I,6,2,1,731
+JUR1962,Estagio Supervisionado Ii,6,2,1,731
+JUR1963,Estagio Supervisionado Iii,4,2,1,731
+JUR1964,Estagio Supervisionado Iv,4,2,1,731
+JUR1971,Estagio Supervisionado I,6,6,0,731
+JUR1972,Estagio Supervisionado Ii,6,6,0,731
+JUR1973,Estagio Supervisionado Iii,2,2,0,731
+JUR1974,Estagio Supervisionado Iv,2,2,0,731
+JUR1975,Estagio Supervisionado V,4,4,0,731
+LET1008,Gramatica Do Portugues,4,2,0,633
+LET1090,Com Expressao I (Para Com Soc),4,2,0,633
+LET1208,Frances 1,6,4,0,633
+LET1209,Frances 2,6,2,2,633
+LET1280,Portugues P/ Estrangeiros I,6,2,2,633
+LET1281,Portugues P/ Estrangeiros Ii,6,2,2,633
+LET1282,Portugues P/ Estrangeiros Iii,6,2,2,633
+LET1285,Portugues P/ Estrangeiros Iv,4,4,0,633
+LET1286,Portugues P/ Estrangeiros V,4,4,0,633
+LET1290,Ingles 4,6,2,2,633
+LET1291,Ingles 5,6,2,2,633
+LET1292,Ingles 6,6,2,2,633
+LET1294,Ingles 1,6,2,2,633
+LET1295,Ingles 2,6,2,2,633
+LET1296,Ingles 3,6,2,2,633
+LET1301,Espanhol 1,4,3,0,633
+LET1302,Espanhol 2,4,2,1,633
+LET1311,Espanhol Comercial,4,3,0,633
+LET1321,Espanhol A,6,4,0,633
+LET1330,Tex Cient P/Bio:Leit Producao,2,2,0,633
+LET1331,Oficina De Texto Lic Biologia,4,2,2,633
+LET1414,Teorias Do Significado,4,4,0,633
+LET1501,Alemao 1,4,2,1,633
+LET1502,Alemao 2,4,2,1,633
+LET1521,Alemao 3,4,2,0,633
+LET1553,Oficina Prod Textual Avancada,4,2,0,633
+LET1613,Latim I,4,4,0,633
+LET1614,Latim Ii,4,4,0,633
+LET1710,Est Superv Ensino:Portugues I,5,5,6,633
+LET1711,Est Superv Ensino:Portugues Ii,5,5,6,633
+LET1712,Est Sup Ens Bilingue I,5,4,5,633
+LET1713,Est Sup Ens: Bilingue Ii,5,4,5,633
+LET1714,Est Sup Ens: Bilingue Iii,2,1,2,633
+LET1715,Est Superv Ensino:Ingles I,5,3,2,633
+LET1716,Est Superv Ensino: Ingles Ii,5,3,2,633
+LET1717,Est Superv Ensino:Ingles Iii,2,1,2,633
+LET1797,Tecn De Comunic P/ Empreended,4,4,0,633
+LET1800,Elaboracao De Texto Escrito,4,4,0,633
+LET1801,Lingua Brasileira De Sinais I,2,1,0,633
+LET1802,Lingua Brasileira De Sinais Ii,2,1,0,633
+LET1804,Introducao A Linguistica,4,4,0,633
+LET1805,Producao De Texto,4,4,0,633
+LET1806,Fonologia,4,4,0,633
+LET1807,Estruturas Lexicais Portugues,4,4,0,633
+LET1808,Sintaxe,4,4,0,633
+LET1830,Linguagem E Sentido,4,4,0,633
+LET1831,Aquisicao Proc Da Linguagem,4,4,0,633
+LET1832,Linguagem E Sociedade,4,4,0,633
+LET1833,Lingua E Cognicao,4,4,0,633
+LET1835,Linguist Aplic Lingua Materna,4,4,0,633
+LET1840,Estudos De Literatura,4,4,0,633
+LET1847,Literatura E Nacionalidade,4,4,0,633
+LET1848,Teorias De Literatura,4,4,0,633
+LET1856,Literatura E Modernidade,4,4,0,633
+LET1866,Literatura E Contemporaneidade,4,4,0,633
+LET1869,A Modernidade Periferica,4,4,0,633
+LET1870,Lingua Chinesa I,4,2,0,633
+LET1871,Lingua Chinesa Ii,4,2,0,633
+LET1872,Lingua Chinesa Iii,4,2,0,633
+LET1873,Lingua Chinesa Iv,4,2,0,633
+LET1880,Introducao A Cultura Chinesa,4,2,0,633
+LET1881,Lingua Latina I,4,4,0,633
+LET1883,Cultura Greco-Latina,4,4,0,633
+LET1884,"Imagens,Mitos Literat Moderna",4,4,0,633
+LET1885,Grego I,4,4,0,633
+LET1886,Grego Ii,4,4,0,633
+LET1888,Mitologia I,4,4,0,633
+LET1889,Mitologia Ii,4,4,0,633
+LET1890,Top Em Letras Classicas I,4,4,0,633
+LET1892,Mito E Cinema,4,4,0,633
+LET1895,Realismos Na Literatura,4,4,0,633
+LET1896,O Fato E A Ficcao,4,4,0,633
+LET1897,Lit Africana Ling Portuguesa,4,4,0,633
+LET1898,"Liter,Cultura E Africanidade",4,4,0,633
+LET1900,Ling Ingl:Texto E Contexto I,4,4,0,633
+LET1901,Ling Ingl:Texto E Contexto Ii,4,4,0,633
+LET1902,Lingua Inglesa:Discurso Oral,4,4,0,633
+LET1903,Ling Inglesa:Discurso Escrito,4,4,0,633
+LET1905,Lin Ing:Asp Lexico-Gramaticais,4,4,0,633
+LET1906,Lin Ingl:Ofic Prod Esc/Gramat,4,2,0,633
+LET1907,Ling Inglesa:Oficina Literaria,4,2,0,633
+LET1908,Ling Ingl:Oficina Produc Oral,4,4,0,633
+LET1909,Ling Ingl:Asp Sociossemioticos,4,4,0,633
+LET1910,Anal E Prod Do Texto Acad,4,2,1,633
+LET1913,Lit Cult Nor-Amer:Nacao/Ident,4,4,0,633
+LET1914,Lit/Cult Brit:Obras Fundadoras,4,4,0,633
+LET1920,Compreensao Prod Texto Tecnico,2,2,0,633
+LET1921,Introducao A Traducao,4,2,0,633
+LET1922,Traducao Tecnico-Cientifica,4,1,1,633
+LET1925,Estudos Da Traducao,4,3,0,633
+LET1932,Versao,4,1,1,633
+LET1933,Topicos Em Traducao,4,4,0,633
+LET1938,Estag Superv De Traducao I,6,1,0,633
+LET1939,Estag Superv De Traducao Ii,6,1,0,633
+LET1945,Leitura E Praticas Pedagogicas,4,4,0,633
+LET1947,Arq Liter E Memoria Cultural,4,4,0,633
+LET1960,Oficina De Texto Narrativo I,4,2,0,633
+LET1961,Oficina De Texto Ensaistico,4,2,0,633
+LET1967,Oficina De Texto Narrativo Ii,4,2,0,633
+LET1974,Oficina Dramaturgia P/Cinema,4,2,0,633
+LET1979,Oficina Texto Infanto-Juvenil,4,2,0,633
+LET1988,Projeto De Autoria I,2,1,0,633
+LET1989,Projeto De Autoria Ii,2,1,0,633
+LET1995,Introducao Ao Latim Forense,2,0,0,633
+LET9420,Braz Lang Cult Ster Reality,4,4,0,633
+MAT1050,Topicos I,4,4,0,833
+MAT1051,Topicos Ii,4,4,0,833
+MAT1060,Intr A Hist Da Matematica,4,4,0,833
+MAT1071,Matematica Espaco E Formas,2,2,0,833
+MAT1072,Calculo Na Arquitetura,3,3,0,833
+MAT1223,Espacos Vetor/Transf Lineares,4,4,0,833
+MAT1224,Estruturas Algebricas I,4,4,0,833
+MAT1320,Introducao Matematica Discreta,4,4,0,833
+MAT1605,Introducao A Analise,4,4,0,833
+MAT1606,Analise Real,4,4,0,833
+MAT1612,Analise No Rn,4,4,0,833
+MAT1811,Geometria Diferencial,4,4,0,833
+MED1330,Saude E Meio Ambiente,2,2,0,244
+PSI1011,Midias Intera E Subjetividade,4,4,0,634
+PSI1018,Psicanalise Francesa,4,4,0,634
+PSI1023,Topicos Em Neurociencias Iii,4,4,0,634
+PSI1061,Sensacao E Percepcao,2,2,0,634
+PSI1062,Lab Sensacao E Percepcao,2,0,2,634
+PSI1063,Aprendizagem E Memoria,2,2,0,634
+PSI1064,Lab Aprendizagem E Memoria,2,0,2,634
+PSI1065,Motivacao E Emocao,2,2,0,634
+PSI1066,Lab De Motivacao E Emocao,2,0,2,634
+PSI1067,Pensamento E Linguagem,2,2,0,634
+PSI1068,Lab De Pensamento E Linguagem,2,0,2,634
+PSI1070,Criatividade,2,2,0,634
+PSI1073,Top Em Sensacao E Percepcao,2,2,0,634
+PSI1077,Bases Biolog Comportamento,2,2,0,634
+PSI1078,Lab Bases Biolog Comport,2,0,2,634
+PSI1079,Fundamentos Em Neurociencias,4,4,0,634
+PSI1083,Psicopatologia,4,4,0,634
+PSI1084,Transtornos Mentais I,4,4,0,634
+PSI1085,Transtornos Mentais Ii,4,4,0,634
+PSI1086,Psicofarmacologia,2,2,0,634
+PSI1088,Psicopatologia Infantil,2,2,0,634
+PSI1089,Topicos Em Psicopatologia Iii,4,4,0,634
+PSI1091,Psicologia Desenvolvimento Ii,4,4,0,634
+PSI1092,Desenv Atipico E Inclusao,2,2,0,634
+PSI1100,Historia Da Psicologia Moderna,4,4,0,634
+PSI1101,Teorias Da Personalidade,4,4,0,634
+PSI1103,Genealogia Prob Psicologica,4,4,0,634
+PSI1140,Epistemologia Cientifica,4,4,0,634
+PSI1200,Psicanalise I,4,4,0,634
+PSI1201,Psicanalise Ii,4,4,0,634
+PSI1202,Psicanalise Iii,4,4,0,634
+PSI1224,Psicologia Junguiana,4,4,0,634
+PSI1225,Psicanalise Britanica,4,4,0,634
+PSI1226,Sintomatologias Contemporaneas,4,4,0,634
+PSI1232,Psicanalise Intersubjetividade,2,2,0,634
+PSI1233,Psicanalise: Clinica E Teoria,2,2,0,634
+PSI1238,Topicos Em Psicanalise I,2,2,0,634
+PSI1239,Topicos Em Psicanalise Ii,4,4,0,634
+PSI1240,Psi Social:Proc Individuais,4,4,0,634
+PSI1241,Psi Social:Proc Grupais,4,4,0,634
+PSI1242,Psicologia Positiva,2,2,0,634
+PSI1243,Psicologia Do Amor,2,2,0,634
+PSI1245,Psicologia Organizacional,4,4,0,634
+PSI1248,Top Em Psi Organizacional I,2,2,0,634
+PSI1306,Saude Coletiva,2,2,0,634
+PSI1307,Saude Mental,4,4,0,634
+PSI1308,Top Em Psicologia E Saude I,4,4,0,634
+PSI1311,Topicos Saude Mental Ii,2,2,0,634
+PSI1321,Metodos Quantitativos,2,2,0,634
+PSI1322,Lab Metodos Quantitativos,2,0,2,634
+PSI1323,Metodos Qualitativos,2,2,0,634
+PSI1324,Lab De Metodos Qualitivos,2,0,2,634
+PSI1325,Psicometria,2,2,0,634
+PSI1326,Lab De Psicometria,2,0,2,634
+PSI1327,Pratica Quantitativa,2,0,2,634
+PSI1328,Pratica Metodos Qualitativos,2,0,2,634
+PSI1333,Top Em Metodos Quantitativos,2,2,0,634
+PSI1335,Pesquisa I,2,0,0,634
+PSI1336,Pesquisa Ii,2,0,0,634
+PSI1340,Psicologia E Instituicoes,4,4,0,634
+PSI1341,Direitos Humanos,2,2,0,634
+PSI1401,Psicologia Hospitalar,2,2,0,634
+PSI1500,Avaliacao Psicologica I,4,4,0,634
+PSI1501,Avaliacao Psicologica Ii,2,2,0,634
+PSI1502,Lab Avaliacao Psicologica Ii,2,0,2,634
+PSI1503,Orientacao Profissional,2,2,0,634
+PSI1505,Avaliacao Familiar,2,2,0,634
+PSI1507,Avaliacao Neuropsicologica,2,2,0,634
+PSI1601,Pesquisa Iii,2,2,0,634
+PSI1602,Pesquisa Iv,2,0,4,634
+PSI1605,Elaboracao De Monografia,2,2,0,634
+PSI1606,Observacao E Entrevista,4,4,0,634
+PSI1725,Desenvolvimento Profissional,2,2,0,634
+PSI1726,Projeto De Vida,4,4,0,634
+PSI1730,Estagio Basico Social,2,2,0,634
+PSI1731,Estagio Basico Em Clinica,2,2,0,634
+PSI1732,Estagio Profissionalizante I,2,2,0,634
+PSI1733,Estagio Profissionalizante Ii,2,2,0,634
+PSI1734,Estagio Profissionalizante Iii,2,2,0,634
+PSI1735,Estagio Profissionalizante Iv,2,2,0,634
+PSI1740,Monografia I,2,0,0,634
+PSI1741,Monografia Ii,2,0,0,634
+PSI1780,Etica Profissional,2,2,0,634
+PSI1808,His Movimento Psicanalitico,2,2,0,634
+PSI1811,Topicos Em Genealogia Iii,4,4,0,634
+PSI1824,Neuropsicologia,4,4,0,634
+PSI1851,Modos Subj Infanc Adolescencia,4,4,0,634
+PSI1876,Dinamica De Grupo Ii,4,4,0,634
+PSI1880,Psicologia E Esporte,4,4,0,634
+PSI1898,Linguagem E Subjetividade,4,4,0,634
+PSI1905,Top Em Psi E Instituicoes I,2,2,0,634
+PSI1913,Top Teoria Psicanalitica I,2,2,0,634
+PSI1932,Psicoter Fenomen-Existencial,4,4,0,634
+PSI1933,Psicoter Cognit Comportamental,4,4,0,634
+PSI1934,Psicoterapia Junguiana,4,4,0,634
+PSI1935,Psicoterapias Corporais,4,4,0,634
+PSI1937,Psicoterapia Familia Casal,4,4,0,634
+PSI1940,Psicoterapias,6,6,0,634
+PSI1941,Psicoterapia De Grupo,4,4,0,634
+PSI1942,Topicos Em Psicoterapias I,2,2,0,634
+PSI1943,Topicos Em Psicoterapias Ii,2,2,0,634
+PSI1944,Topicos Em Psicoterapias Iii,4,4,0,634
+PSI1946,Gestalt-Terapia,4,4,0,634
+PSI1948,Psicodinamica Integrativa,4,4,0,634
+PSI1949,Introducao A Terapia Narrativa,4,4,0,634
+PSI1958,Atitude Comport Empreendedor,4,4,0,634
+PSI1961,Psi Escolar E Educacional,4,4,0,634
+PSI1970,Monografia I,6,0,0,634
+PSI1971,Monografia Ii,6,0,0,634
+PSI1972,Monitoria I,4,4,0,634
+PSI1973,Monitoria Ii,2,2,0,634
+PSI1974,Monitoria Iii,4,0,4,634
+PSI1975,Monitoria Iv,2,0,2,634
+PSI1976,Monitoria I,2,0,2,634
+PSI1977,Monitoria Iii,2,0,2,634
+PSI1985,Estagio V,10,5,5,634
+PSI1986,Estagio Vi,10,5,5,634
+QUI1103,Quimica Geral Para Biologia,4,4,0,834
+QUI1329,Conc Qui Ambiental P/Biologia,3,3,0,834
+QUI1330,Bioquimica Para Biologia,3,3,0,834
+QUI1703,Quimica Inorganica I,3,3,0,834
+QUI1712,Lab Quimica Inorganica,3,0,3,834
+QUI1721,Quimica Analitica A,3,3,0,834
+QUI1722,Labor Quimica Analitica A,3,0,3,834
+QUI1723,Quimica Analitica B,3,3,0,834
+QUI1724,Lab Quimica Analitica B,3,0,3,834
+QUI1735,Quimica Analitica C,4,4,0,834
+QUI1736,Lab De Quimica Analitica C,3,0,3,834
+QUI1737,Quimiometria,4,4,0,834
+QUI1768,Bioquimica,3,3,0,834
+QUI1845,Trabalho Orientado,2,2,0,834
+QUI1962,Fenomenos De Interface,4,4,0,834
+QUI1963,Analise Organica,3,2,0,834
+QUI1964,Lab Sintese Organica,4,0,0,834
+SER1212,Estagio Supervisionado I,6,2,0,736
+SER1213,Estagio Supervisionado Ii,6,2,0,736
+SER1215,Orient Trab Conclusao Curso Ii,2,2,0,736
+SER1222,Seminario Conteudo Variavel,2,2,0,736
+SER1224,Seminario Conteudo Variavel,2,2,0,736
+SOC1100,Introducao A Sociologia,4,4,0,737
+SOC1101,Aventura Sociol (Soc I),4,4,0,737
+SOC1102,Sociologia Ii-Estr E Mud Soc,4,4,0,737
+SOC1103,Marx E Weber,4,4,0,737
+SOC1120,Sociologia Urbana,4,4,0,737
+SOC1127,Sociologia E Comunicacao,4,4,0,737
+SOC1131,Cult Jovens/Nov Subjetividades,4,4,0,737
+SOC1139,Estudos Socio-Antropologicos,2,2,0,737
+SOC1144,Teoria Sociol Contemporanea,4,4,0,737
+SOC1201,Bases Pensam Pol Ocidental,4,4,0,737
+SOC1202,Construcao Liberal E Criticas,4,4,0,737
+SOC1203,Inst Politicas Brasileiras,4,4,0,737
+SOC1205,Politica I-Teoria Politica,4,4,0,737
+SOC1211,Modelo Politico Brasileiro,4,4,0,737
+SOC1213,Mulher E Soc I(Mulh E Par Pol),4,4,0,737
+SOC1223,Partidos Pol E Eleic No Brasil,4,4,0,737
+SOC1227,Teor Politicas Contemporaneas,4,4,0,737
+SOC1286,Gestao/Aval Politicas Publicas,4,4,0,737
+SOC1294,Ideias Politicas Socialistas,4,4,0,737
+SOC1302,Antropologia Cultural,4,4,0,737
+SOC1326,Relacoes De Genero,4,4,0,737
+SOC1328,Antropologia Da Arte,4,4,0,737
+SOC1339,Antropologia Da Musica,4,4,0,737
+SOC1340,Antropologia Contemporanea,4,4,0,737
+SOC1343,Antropologia Da Violencia,4,4,0,737
+SOC1344,Antropologia Do Corpo,4,4,0,737
+SOC1345,"Sociedade, Cultura E Cinema",4,4,0,737
+SOC1375,Seminario Esp Em Antropologia,2,2,0,737
+SOC1430,Pol Publica E Meio Ambiente,4,4,0,737
+SOC1505,Metodos Tecnicas Pesquisa I,3,3,0,737
+SOC1507,Estatistica Ciencias Sociais,3,3,0,737
+SOC1514,Monografia I,3,0,0,737
+SOC1515,Monografia Ii,3,0,0,737
+SOC1519,Met/Prat Ciencias Sociais Ii,5,2,4,737
+SOC1520,Monitoria I,5,2,4,737
+SOC1521,Monitoria Ii,5,2,4,737
+SOC1570,Seminario Esp Em Metodologia,4,4,0,737
+TEO1230,Cristologia,4,4,0,635
+TEO1231,O Deus Da Revelacao,4,4,0,635
+TEO1234,Monografia,4,2,0,635
+TEO1238,Pneumatologia,2,2,0,635
+TEO1239,Monografia,2,2,0,635
+TEO1240,Introducao Ao Pensar Teologico,4,4,0,635
+TEO1241,Teologia Fundamental,4,4,0,635
+TEO1242,Antrop Teo I:Criacao E Pecado,4,4,0,635
+TEO1245,Eclesiologia,4,4,0,635
+TEO1246,Antrop Teo Ii:A Vida Da Graca,4,4,0,635
+TEO1252,Escatologia,2,2,0,635
+TEO1257,Mariologia,2,2,0,635
+TEO1258,Sacramentos I (Introducao),2,2,0,635
+TEO1259,Sacramentos Ii (Inic Crista),4,4,0,635
+TEO1260,Sacram Iii (Rec/Unc Enfermos),2,2,0,635
+TEO1261,Sacram Iv (Ord/Ministerios),2,2,0,635
+TEO1262,Sacramentos V (Matrimonio),2,2,0,635
+TEO1271,Teologia E Justica,4,4,0,635
+TEO1321,Intr Geral A Sagrada Escritura,4,4,0,635
+TEO1322,Evang Sin E Atos Dos Apostolos,4,4,0,635
+TEO1323,Escritos Joaninos,4,4,0,635
+TEO1326,Literatura Profetica,4,4,0,635
+TEO1327,Literatura Sapiencial,4,4,0,635
+TEO1328,Escrit Paulin E Carta Hebreus,4,4,0,635
+TEO1330,Lit Intertestam/Apocaliptica,2,2,0,635
+TEO1410,Etica Sexualidade E Bioetica,4,4,0,635
+TEO1411,Moral Fundamental,4,4,0,635
+TEO1413,Moral Socio-Econ E Politica,4,4,0,635
+TEO1517,Historia Da Igreja I,4,4,0,635
+TEO1518,Historia Da Igreja Ii,4,4,0,635
+TEO1519,Historia Da Igreja No Brasil,2,2,0,635
+TEO1520,Patrologia,4,4,0,635
+TEO1635,Seminario De Monografia,2,2,0,635
+TEO1637,Sintese Teo:Exame Complexivo,12,12,0,635
+TEO1640,Seminario Sagrada Escritura,2,2,0,635
+TEO1714,Direito Canonico I,4,4,0,635
+TEO1715,Direito Canonico Ii,4,4,0,635
+TEO1814,Metodo Pesquisa Em Teologia,2,2,0,635
+TEO1818,Teo/Campo Rel Brasileiro,2,2,0,635
+TEO1902,Lingua Grega Biblica I,2,2,0,635
+TEO1907,Lingua Grega Biblica Ii,2,2,0,635
+TEO1908,Grego Avancado I,4,4,0,635
+TEO1909,Grego Avancado Ii,4,4,0,635
+TEO1910,Lingua Hebraica Biblica,2,2,0,635
+TEO1911,Lingua Hebraica Biblica Ii,2,2,0,635
+TEO1912,Hebraico Avancado I,4,4,0,635
+TEO1913,Hebraico Avancado Ii,4,4,0,635
